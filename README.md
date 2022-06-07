@@ -4,7 +4,7 @@ Simple integration with Meta Mask using by jquery for auth and send post request
 
 Also data.php file for your database save user account data, check comments inside the data.php file
 
-All cheking access on backend php side could be possigle with libraries as Kessac and others
+All cheking access on backend php side could be possible with libraries as Kessac and others
 
 It is simple integration for the start using metamask from https://docs.metamask.io/guide/ 
 
