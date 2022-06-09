@@ -18,6 +18,6 @@ git clone https://github.com/blazewebart/ethereum-metamask-jquery-php-web3.git
 
 # p.s
 
-This is simple logic to start deep dive in this crypto world, if you have questions please ask)
+This is simple logic to start deep dive in this crypto world, if you have questions please ask) info@blazewebart.pro
 
 Thanks a lot, Konstantin)
